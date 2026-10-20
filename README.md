@@ -14,7 +14,7 @@ An enterprise-grade statistical audit and flight-risk prediction engine addressi
 
 ---
 
-### 🛠 Tech Stack & Tools
+### Tech Stack & Tools
 * **Languages:** Python, SQL, R
 * **Data Science & ML:** Pandas, NumPy, Statsmodels, Scikit-Learn
 * **Data Visualization:** Tableau, Seaborn, Matplotlib
@@ -22,6 +22,6 @@ An enterprise-grade statistical audit and flight-risk prediction engine addressi
 
 ---
 
-### 📫 Connect With Me
+### Connect With Me
 * **LinkedIn:** [https://www.linkedin.com/in/javierbrizr/](#)
 * **Email:** `javierbriz2007@gmail.com`
