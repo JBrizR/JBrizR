@@ -1,8 +1,8 @@
 # Hi, I'm Javier Briz👋
 
-**Data Scientist | People Analytics & Statistical Modeling**
+**Data Science and Engineering Student at UC3M**
 
-I specialize in translating complex organizational data into actionable business strategy using Python, statistical auditing, and machine learning.
+I am interested in translating complex organizational data into actionable business strategy using Python, statistical auditing, and machine learning.
 
 ---
 
